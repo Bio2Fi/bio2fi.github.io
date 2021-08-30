@@ -15,6 +15,10 @@ Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2
 Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Matteson. Clustering Future Scenarios Based on Predicted Range Maps. Bioarxiv. [https://arxiv.org/abs/2101.07408](https://arxiv.org/abs/2101.07408)
 
 
+Emmanouil, S., Langousis, A., Nikolopoulos, E.I. and Anagnostou, E.N., 2021. An ERA‐5 derived CONUS‐wide high‐resolution precipitation dataset based on a refined parametric statistical downscaling framework. Water Resources Research, [p.e2020WR029548](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029548).
+* The full CONUS-wide downscaled precipitation dataset is freely available at [https://doi.org/10.5061/dryad.8kprr4xnq](https://doi.org/10.5061/dryad.8kprr4xnq). 
+
+
 Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
 
 Frazier, A.E., Honzák, M., Hudson, C., Perlin, R., Tohtsonie, A., Gaddis, K.D., de Sousa, C., Larsen, T.H., Junker, J., Nyandwi, S. and Trgovac, A.B., Connectivity and conservation of Western Chimpanzee (Pan troglodytes verus) habitat in Liberia. 2021. Diversity and Distributions. (Open Access)
@@ -39,6 +43,8 @@ Urban, M. C., C. Merow, J. Wegrzyn, B. S. Maitner, D. Corcoran. 2021. How to pub
 
 
 Wessels, C., C. Merow, Trisos, C. 2021. Climate change risk to southern African native wild food plants. Regional Environmental Change. 21: 1-14. [http://dx.doi.org/10.1007/s10113-021-01755-5](http://dx.doi.org/10.1007/s10113-021-01755-5)
+
+
 
 
 ## 2020
@@ -76,6 +82,9 @@ Enquist, B.J., X. Feng, B.Boyle, B. Maitner, E. A. Newman, P. M. Jørgensen, P. 
 Araujo, D. S. A., F. Marra, C. Merow, E. I. Nikolopoulos. A novel framework for assessing future changes in drought risk: results for Australia. In review.
 
 
+Araujo D., Marra F., Merow C., Nikolopoulos, E., 2021. Today’s 100-year drought in Australia may become the norm by the end of the century. Environmental Research Letters (under revision).
+
+
 Carlson, C. J., G. F. Albery, C. Merow, C. H. Trisos, C. M. Zipfel, E. Eskew, K. J. Olival, N. Ross, S. Bansal. Global change will create new viral sharing opportunities in range-shifting mammals. 2020.  In review
 
 
@@ -83,6 +92,9 @@ Corcoran, D., M. C. Urban, J. Wegrzyn, C. Merow. 2020. Virus evolution affected 
 
 
 He, K., X. Shen, E. N. Anagnostou, C. Merow, T. Nikolopoulos, R. Gallagher, F. Yang. Predicting wildfire severity based on machine learning: Application on the Australian ecosystem. In review.
+
+
+Rasheed, Z., Aravamudan, A., Sefidmazgi, A.G., Anagnostopoulos, G.C. and Nikolopoulos, E., 2021. Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology. (under review). Preprint available at [https://doi.org/10.31223/X5X03X](https://doi.org/10.31223/X5X03X).
 
 
 Roehrdanz, P., L. Hannah, D. Corcoran, R. Corlett, B. J. Enquist, J. Fajardo, X. Feng, W. Foden, J. Lovett, B. Maitner, P. Marquet, C. Merow, G. Midgley. Strategic Conservation of Global Vertebrates in Response to Climate Change. In review
