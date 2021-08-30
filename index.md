@@ -5,8 +5,6 @@ author_profile: true
 
 <p style="text-align:center;"><img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo"></p>
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" class= "center" alt="Logo"  />  
-
 # Biodiversity and Biosphere Forecasting Institute (Bio<sup>2</sup>FI)
 
 Loss of biodiversity is a threat to human well being. 
