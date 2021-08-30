@@ -85,6 +85,8 @@ _______________
 ### Adam Chmurzynski
 *PhD student, Department of Ecology and Evolutionary Biology, University of Arizona*
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Adam.jpg?raw=true" align = left alt="Adam" width=200 />
+
 Adam brings a background in computer science to environmental science and education by creating new ways of visualizing and interacting with biodiversity data. He is creating an interactive web visualization depicting the present and future locations of hundreds of thousands of species on Earth, as well as other regional and global forecasting outputs of the Institute. A prototype of this tool [won a grand prize](https://www.youtube.com/watch?v=cVTtZN1E-8Y&list=PL55HrL0eJVEbD6zUfL-_Nj7tXA5hD7_7G&index=4) in the Michael H. Freilich Student Visualization Competition at AGU 2020.
 <br clear="left"/>
 
