@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 2021
 
-Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Adams, R. V. Gallagher. 2021. Functional diversity of the Australian flora: strong links to species richness and climate. Journal of Vegetation Science 32: e13018. https://doi.org/10.1111/jvs.13018
+Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Adams, R. V. Gallagher. 2021. Functional diversity of the Australian flora: strong links to species richness and climate. Journal of Vegetation Science 32: e13018. (https://doi.org/10.1111/jvs.13018)
 
 
 Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2021. A test of species distribution model transferability across environmental and geographic space for 108 western North American tree species. Frontiers in Ecology and Evolution. 9:689295. https://doi.org/10.3389/fevo.2021.689295
