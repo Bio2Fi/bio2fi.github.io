@@ -14,6 +14,10 @@ ____________________
 
 
 ### Colorado Climate Change
+Mountainous watersheds provide 60-90% of water resources worldwide, and have accordingly been referred to as the ‘water towers’ of the world. However, uncertainty associated with predicting watershed hydrobiogeochemical behavior remains high as climate change, extreme weather, wildfire, land-use change, and other disturbances significantly reshape interactions within the world’s watersheds. Recent global-climate-model ensembles predict increased temperature and earlier snowmelt in western North America and reduced spring precipitation and increased late summer monsoon precipitation in the future.
+
+This subgroup  focuses on understanding variation in the flux of water in a headwater catchment of the Colorado River. Such catchments are are important for water resources, because they influence hydrology through evapotranspiration (ET) and nutrient cycling. Using data from satellites, airplanes and on-the ground long-term surveys we are harnessing remote sensing data to have a detailed picture of how shifts in biodiversity have impacted watershed function. We have focused on how changing patterns of temperature and drought are influencing vegetation ET, productivity and how these changes in turn are driven by shifts species functioning, diversity, and climate. 
+
 
 ____________________
 
