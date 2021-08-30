@@ -3,7 +3,41 @@ layout: members
 permalink: /members/
 ---
 
-# Members
+# BioFI PIs
+
+### Laura Duncanson
+*Department of Geographical Science, University of Maryland*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" alt="Laura" width=200 />
+
+Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
+
+### Brian J. Enquist
+*Department of Ecology and Evolutionary Biology, The University of Arizona*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.png?raw=true" alt="Enquist" width=200 />
+
+Brian is a Professor in the <a href = "https://eeb.arizona.edu/">Department of Ecology and Evolutionary Biology</a> at the University of Arizona. He is also an external Professor at the <a href = "https://www.santafe.edu/">Santa Fe Institute</a>, a theoretical research institute dedicated to the multidisciplinary study of the fundamental principles of complex adaptive systems, including physical, computational, biological, and social systems. He is the Co-director and founder of the <a href = "https://bbcs.arizona.edu/">Bridging Biodiversity and Conservation Science group</a> at the University of Arizona. Brian is a broadly trained plant biologist and ecologist. His collaborative lab group strives to develop a more integrative, quantitative, and predictive framework for biology, biodiversity Science and large-scale ecology. In particular, his lab aims to link biological measures across spatial and temporal scales in ecology and evolution. 
+
+### Amy E. Frazier
+*Arizona State University*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" alt="Amy" width=200 />
+
+Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
+
+Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
+
+### Cory Merow
+*Speculative Macroecology Group, University of Connecticut*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" alt="Cory" width=200 />
+
+Cory is a quantitative ecologist interested in forecasting population, community, and ecosystem responses to environmental change. Even the best data sets are imperfect for predicting global change responses, so he develops tools to combine data sources to gain insights into how biological systems may change.
+
+
+
+# BioFI Team
 
 ### Manos Anagnoustou
 *University of Connecticut*
@@ -37,20 +71,6 @@ Adam brings a background in computer science to environmental science and educat
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Corcoran.jpg?raw=true" alt="Derek" width=200 />
 
 
-### Laura Duncanson
-*Department of Geographical Science, University of Maryland*
-
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" alt="Laura" width=200 />
-
-Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
-
-### Brian J. Enquist
-*Department of Ecology and Evolutionary Biology, The University of Arizona*
-
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.png?raw=true" alt="Enquist" width=200 />
-
-Brian is a Professor in the <a href = "https://eeb.arizona.edu/">Department of Ecology and Evolutionary Biology</a> at the University of Arizona. He is also an external Professor at the <a href = "https://www.santafe.edu/">Santa Fe Institute</a>, a theoretical research institute dedicated to the multidisciplinary study of the fundamental principles of complex adaptive systems, including physical, computational, biological, and social systems. He is the Co-director and founder of the <a href = "https://bbcs.arizona.edu/">Bridging Biodiversity and Conservation Science group</a> at the University of Arizona. Brian is a broadly trained plant biologist and ecologist. His collaborative lab group strives to develop a more integrative, quantitative, and predictive framework for biology, biodiversity Science and large-scale ecology. In particular, his lab aims to link biological measures across spatial and temporal scales in ecology and evolution. 
-
 ### Nicola Falco
 *Research scientist, Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory*
 
@@ -73,15 +93,6 @@ Xiao Feng is a quantitative ecologist and biogeographer, interested in macroecol
 Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
 
 
-
-### Amy E. Frazier
-*Arizona State University*
-
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" alt="Amy" width=200 />
-
-Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
-
-Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
 
 ### Lee Hannah
 *Conservation International*
@@ -114,13 +125,6 @@ Brian is a macroecologist and community ecologist who is interested in the origi
 
 ### Nirav Merchant
 *University of Arizona*
-
-### Cory Merow
-*Speculative Macroecology Group, University of Connecticut*
-
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" alt="Cory" width=200 />
-
-Cory is a quantitative ecologist interested in forecasting population, community, and ecosystem responses to environmental change. Even the best data sets are imperfect for predicting global change responses, so he develops tools to combine data sources to gain insights into how biological systems may change.
 
 ### Thymios Nikolopoulos
 *Florida Institute of Technology*
