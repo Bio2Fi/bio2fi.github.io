@@ -17,11 +17,19 @@ Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Ma
 
 Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
 
+Frazier, A.E., Honzák, M., Hudson, C., Perlin, R., Tohtsonie, A., Gaddis, K.D., de Sousa, C., Larsen, T.H., Junker, J., Nyandwi, S. and Trgovac, A.B., Connectivity and conservation of Western Chimpanzee (Pan troglodytes verus) habitat in Liberia. 2021. Diversity and Distributions. (Open Access)
+* Journal [cover image](https://onlinelibrary.wiley.com/toc/14724642/2021/27/7)
+* News coverage by [NASA](https://appliedsciences.nasa.gov/our-impact/news/finding-chimpanzees-africas-forests), [Conservation International](https://www.conservation.org/blog/new-science-a-path-for-protecting-chimps-and-more), and [ASU](https://news.asu.edu/20210512-mapping-liberia-western-chimpanzee-conservation).
+
 
 Frye, H. A., M. E. Aiello-Lammens, D. Euston-Brown, C. S. Jones, H. K. Mollmann, C. Merow, J. A. Slingsby, H. van der Merwe, A. M. Wilson, J. A. Silander Jr. 2021. Plant spectral diversity as a surrogate for species, functional, and phylogenetic diversity across a hyper-diverse biogeographic region. Global Ecology and Biogeography. 30: 1404-1417. [https://doi.org/10.1111/geb.13306](https://doi.org/10.1111/geb.13306)
 
 
 Jung, M., A. Arnell, X. de Lamo, S. García-Rangel, M. Lewis, J. Mark, C. Merow, L. Miles, I. Ondo, S. Pironon, C.Ravilious, M. Rivers, D. Schepashenko, O. Tallowin, A. van Soesbergen, R. Govaerts, et al., B. L. Boyle, B. J. Enquist, X. Feng, R.V. Gallagher, B. S. Maitner, S. Meiri, M. Mulligan, G.Ofer, J. O. Hanson, W. Jetz, M. Di Marco, J. McGowan, D. S. Rinnan, J. D. Sachs, M. Lesiv, V. Adams, S. C. Andrew, J. R. Burger, Lee Hannah, P. A. Marquet, J. K. McCarthy, N. Morueta-Holme, E. A. Newman, D. S. Park, P. R. Roehrdanz, J. C. Svenning, C. Violle,  J. J. Wieringa, G. Wynne, S. Fritz, B. B. N. Strassburg, M. Obersteiner, V. Kapos, N. Burgess, G. Schmidt-Traub, P. Visconti. Areas of global importance for terrestrial biodiversity, carbon, and water. 2021. Nature Ecology and Evolution. [https://doi.org/10.1038/s41559-021-01528](https://doi.org/10.1038/s41559-021-01528).
+
+
+Kedia, A.C., Kapos, B., Liao, S., Draper, J., Eddinger, J., Updike, C. and Frazier, A.E. An Integrated Spectral–Structural Workflow for Invasive Vegetation Mapping in an Arid Region Using Drones. 2021 Drones, 5(1), p.19. (Open Access) [https://onlinelibrary.wiley.com/doi/10.1111/ddi.13270](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13270)
+* News coverage by ABC15 Phoenix: [Drones and AI hunting down invasive plants at Salt River](https://www.abc15.com/news/state/drones-and-a-i-hunting-down-invasive-plants-at-salt-river)
 
 
 Owens, H., C. Merow, B. S. Maitner, J. M. Kass, V. Barve and R. P. Guralnick 2021. occCite: Tools for querying and managing large biodiversity occurrence datasets. Ecography. 44: 1–8, 2021. [https://doi.org/10.1111/ecog.05618](https://doi.org/10.1111/ecog.05618)
@@ -31,6 +39,7 @@ Urban, M. C., C. Merow, J. Wegrzyn, B. S. Maitner, D. Corcoran. 2021. How to pub
 
 
 Wessels, C., C. Merow, Trisos, C. 2021. Climate change risk to southern African native wild food plants. Regional Environmental Change. 21: 1-14. [http://dx.doi.org/10.1007/s10113-021-01755-5](http://dx.doi.org/10.1007/s10113-021-01755-5)
+
 
 ## 2020
 
