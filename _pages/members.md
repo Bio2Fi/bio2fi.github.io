@@ -29,7 +29,7 @@ Amy is an Assistant Professor and core faculty in the Spatial Analysis Research 
 Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
 
 ### Cory Merow
-*Speculative Macroecology Group, University of Connecticut*
+*Eversource Energy Center and Department of Ecology and Evolutionary Biology, University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" alt="Cory" width=200 />
 
