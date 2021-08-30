@@ -8,12 +8,11 @@ permalink: /members/
 ### Laura Duncanson
 *Department of Geographical Science, University of Maryland*
 
-
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" align = left alt="Laura" width=200 /> Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
 <br clear="left"/>
 
-
 _______________
+
 
 ### Brian J. Enquist
 *Department of Ecology and Evolutionary Biology, The University of Arizona*
@@ -31,9 +30,9 @@ _______________
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" align = left alt="Amy" width=200 />
 
-Amy is an Assistant Professor and core faculty in the Spatial Analysis Research Center (SPARC), School of Geographical Sciences and Urban Planning, an affiliate faculty in the Center for Biodiversity Outcomes, and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. 
+Amy Frazier is an Associate Professor in the School of [Geographical Sciences and Urban Planning](https://sgsup.asu.edu/), a core faculty member in the [Spatial Analysis Research Center (SPARC)](https://sgsup.asu.edu/SPARC) and the [Center for Global Discovery and Conservation Science](https://gdcs.asu.edu/), an affiliate faculty in the [Center for Biodiversity Outcomes](https://sustainability-innovation.asu.edu/biodiversityoutcomes/), and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. She also serves as the Associate Director for [Geospatial Research and Solutions](https://gis.asu.edu/). 
 
-Amy’s research focuses on the integration of remote sensing, GIScience, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. 
+Amy’s research focuses on the integration of remote sensing, computational spatial science, and landscape ecology to study global environmental change. Specifically, she investigates how advances in GIS and remote sensing classification science can be used to overcome the challenges that result when using remote sensing or aggregated GIS data to study ground-based phenomena at different spatial scales. She applies these methods to help protect our planet.
 <br clear="left"/>
 
 _______________
