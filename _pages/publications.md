@@ -9,10 +9,10 @@ permalink: /publications/
 Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Adams, R. V. Gallagher. 2021. Functional diversity of the Australian flora: strong links to species richness and climate. Journal of Vegetation Science 32: e13018. (https://doi.org/10.1111/jvs.13018)
 
 
-Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2021. A test of species distribution model transferability across environmental and geographic space for 108 western North American tree species. Frontiers in Ecology and Evolution. 9:689295. https://doi.org/10.3389/fevo.2021.689295
+Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2021. A test of species distribution model transferability across environmental and geographic space for 108 western North American tree species. Frontiers in Ecology and Evolution. 9:689295. [https://doi.org/10.3389/fevo.2021.689295](https://doi.org/10.3389/fevo.2021.689295)
 
 
-Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Matteson. Clustering Future Scenarios Based on Predicted Range Maps. Bioarxiv. https://arxiv.org/abs/2101.07408
+Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Matteson. Clustering Future Scenarios Based on Predicted Range Maps. Bioarxiv. [https://arxiv.org/abs/2101.07408]
 
 
 Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
