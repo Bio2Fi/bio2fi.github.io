@@ -37,5 +37,22 @@ The significance of the impacts of droughts to ecosystems and the fact that clim
 
 ____________________
 
+### Global Forest Structure
+
+Forests sequester approximately 30% of annual carbon emissions to the atmosphere, but increasingly lose carbon back to the atmosphere through deforestation and degradation. Forests are a key component of climate change mitigation strategies through the UNFCCC, with large scale forest conservation, reforestation and afforestation included in many national commitments to combat climate change. To date, we have not had an accurate global forest carbon product, largely due to a lack of appropriate satellite data relevant to mapping forests in 3D. NASA’s GEDI mission (launched 2018) has released global-scale forest height, canopy cover and biomass products, enabling the quantification of carbon impacts of forest conservation activities. GEDI data also provide insights into the linkages between forest structure, carbon dynamics, and environmental change (e.g. shifting climate regimes).
+
+This sub-group focuses on using GEDI data to map forest structure at a range of spatial scales, and explore questions related to quantifying forest carbon stocks and fluxes associated with environmental change and forest conservation. GEDI data have enabled the team to map global-scale impacts of global forest conservation activities, such as the avoided carbon emissions associated with protected areas. These results highlight the importance of forest protection for achieving climate targets, particularly for countries with high deforestation rates. GEDI data are also linked to the team’s work in Colorado, California and the Amazon, quantifying the relationships between forest structure and drought. Understanding how climate impacts forest structure and carbon enables the forecasting of ecosystem carbon dynamics in future climate scenarios.
+
+<img src="https://github.com/Bio2Fi/bio2fi.github.io/blob/master/assets/images/GEDI_fig_1.jpeg" align = left alt="GEDI 1" width=700 /> Left: Global protected areas are statistically matched to ecologically similar areas, and GEDI data are used to quantify the avoided carbon emissions associated with protected areas.
+<br clear="left"/>
+
+<img src="https://github.com/Bio2Fi/bio2fi.github.io/blob/master/assets/images/GEDI_fig_2.png" align = left alt="GEDI 2" width=700 /> Left: GEDI data are used to map forest height and biomass both for the Amazon basin, and at a global scale. These forest structure maps are linked to environmental change such as drought products, which will help understand and forecast potential future changes in forest structure and biomass associated with shifting climate trends.
+<br clear="left"/>
+
+
+
+____________________
+
+
 ### Understanding Emerging Hazards
 Given the crucial role the rise of COVID-19 has played in our lives over the past year, we chose to shift some of our modeling resources to understanding COVID spread globally. The same spatial modeling and machine learning skills, along with fluency in remote sensing products and disease spread that enable us to do ecological forecasting are also well suited for studying COVID spread. Our team has produced three manuscripts exploring global patterns of COVID spread early in the pandemic. The <a href = "https://www.pnas.org/content/117/44/27456.abstract">first paper</a> was the first to detect a signal of the negative effects of UV on spread rate, while cautioning that this effect was insufficient to protect against irresponsible human behavior during summer (predictions made in April 2019, which were unfortunately correct). A <a href = "https://www.sciencedirect.com/science/article/pii/S0048969720349305">second paper</a> quantified the role of intervention on COVID spread by using remotely sensed N2 emissions to quantify socioeconomic activity (or lack thereof) as a proxy for widespread intervention. A <a href = "https://www.medrxiv.org/content/10.1101/2020.09.29.20202416v1">third paper</a> looks at whether virus evolution has contributed significantly to differences in spread in different countries/states across the world. In particular, we have found evidence that spike protein structure from two of the five accepted clades considered has correlated well with higher growth rates.
