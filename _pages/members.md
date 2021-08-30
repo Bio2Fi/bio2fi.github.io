@@ -218,3 +218,7 @@ _______________
 Haruko Wainwright’s research focuses on environmental informatics, aiming to improve understanding and predictions in Earth and environmental systems through mechanistic modeling and machine learning. In particular, she has been developing methodology to integrate multi-type and multiscale datasets (e.g., point samples, geophysical data, and drone/airborne/satellite remote sensing data) for estimating spatially heterogeneous subsurface and ecosystem properties. She works on broader topics, including watershed science, Arctic ecosystem science, agricultural ecosystem science, environmental contamination and remediation, and radiation monitoring.
 
 _______________
+
+## The BioFi Network
+
+The interactive figure below depicts some of the collaborations (lines) among the members (light blue) of the BioFI network (dark blue).  Orange dots represent a subset of external collaborators. 
