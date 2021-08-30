@@ -4,6 +4,33 @@ permalink: /publications/
 ---
 # Publications
 
+Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Adams, R. V. Gallagher. 2021. Functional diversity of the Australian flora: strong links to species richness and climate. Journal of Vegetation Science 32: e13018.
+
+
+Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2021. A test of species distribution model transferability across environmental and geographic space for 108 western North American tree species. Frontiers in Ecology and Evolution. 9:689295.
+
+
+Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Matteson. Clustering Future Scenarios Based on Predicted Range Maps. Bioarxiv.
+
+
+Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
+
+
+Frye, H. A., M. E. Aiello-Lammens, D. Euston-Brown, C. S. Jones, H. K. Mollmann, C. Merow, J. A. Slingsby, H. van der Merwe, A. M. Wilson, J. A. Silander Jr. 2021. Plant spectral diversity as a surrogate for species, functional, and phylogenetic diversity across a hyper-diverse biogeographic region. Global Ecology and Biogeography. 30: 1404-1417.
+
+
+Jung, M., A. Arnell, X. de Lamo, S. García-Rangel, M. Lewis, J. Mark, C. Merow, L. Miles, I. Ondo, S. Pironon, C.Ravilious, M. Rivers, D. Schepashenko, O. Tallowin, A. van Soesbergen, R. Govaerts, et al., B. L. Boyle, B. J. Enquist, X. Feng, R.V. Gallagher, B. S. Maitner, S. Meiri, M. Mulligan, G.Ofer, J. O. Hanson, W. Jetz, M. Di Marco, J. McGowan, D. S. Rinnan, J. D. Sachs, M. Lesiv, V. Adams, S. C. Andrew, J. R. Burger, Lee Hannah, P. A. Marquet, J. K. McCarthy, N. Morueta-Holme, E. A. Newman, D. S. Park, P. R. Roehrdanz, J. C. Svenning, C. Violle,  J. J. Wieringa, G. Wynne, S. Fritz, B. B. N. Strassburg, M. Obersteiner, V. Kapos, N. Burgess, G. Schmidt-Traub, P. Visconti. Areas of global importance for terrestrial biodiversity, carbon, and water. 2021. Nature Ecology and Evolution. https://doi.org/10.1038/s41559-021-01528.
+
+
+Owens, H., C. Merow, B. S. Maitner, J. M. Kass, V. Barve and R. P. Guralnick 2021. occCite: Tools for querying and managing large biodiversity occurrence datasets. Ecography. 44: 1–8, 2021.
+
+
+Urban, M. C., C. Merow, J. Wegrzyn, B. S. Maitner, D. Corcoran. 2021. How to publish at pandemic speed. Bioscience. XX: 1-3.
+
+
+Wessels, C., C. Merow, Trisos, C. 2021. Climate change risk to southern African native wild food plants. Regional Environmental Change. 21: 1-14. 
+
+
 Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden, J. C. Lovett, R. Corlett, D. Corcoran, S. Butchart, B. Boyle, X. Feng, B. Maitner, J. Fajardo, B. J. McGill, C. Merow, N. Morueta-Holme, E. A. Newman, D. S. Park, J. Svenning. 30% land conservation and climate action reduces tropical extinction risk by more than 50%. 2020. Ecography. 43: 943-953.
 * *Ecography Editor's Choice*
 * Subject of Ecography's first ever <a href = "https://soundcloud.com/george-chan-838071481/climate-change-how-much-land-do-we-need-to-protect-to-prevent-mass-extinctions">podcast</a>
