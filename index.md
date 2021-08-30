@@ -3,7 +3,7 @@ layout: splash
 author_profile: true
 ---
 
-<p style="text-align:center;"><img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo"></p>
+<p style="text-align:center;"><img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo" width = 600></p>
 
 # Biodiversity and Biosphere Forecasting Institute (Bio<sup>2</sup>FI)
 
