@@ -221,4 +221,4 @@ _______________
 
 ## The BioFi Network
 
-The interactive figure below depicts some of the collaborations (lines) among the members (light blue) of the BioFI network (dark blue).  Orange dots represent a subset of external collaborators. 
+The interactive figure below depicts some of the collaborations (lines) among the members of the BioFI network (blue circles) and some of their extental collaborators (orange circles). 
