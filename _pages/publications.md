@@ -122,4 +122,16 @@ Roehrdanz, P., L. Hannah, D. Corcoran, R. Corlett, B. J. Enquist, J. Fajardo, X.
 Wieczynski, D., Diaz, S., Duran, S.M., Fyllas, N., Salinas, N., Martin, R., Shenkin, A., Silman, M., Asner, G., Bentley, L.P. and Malhi, Y., 2020. Quantifying productivity at landscape scale using remotely-sensed foliar traits and canopy structure.  In review Oikos
 
 
+## In review/revision
+
+
+Xinyi Shen, Guannan Liang, Amanda Allen and, Xiao Feng "An automated decadal survey of saguaro population using deep learning" AGU 2021 Fall Meeting, New Orleans. (in prep) 
+
+
+Xinyi Shen, Kang He, et al., “Future floods exacerbate fire recovery in New South Wales” (in prep)
+
+
+Kang He, Xinyi Shen, Emmanouil N. Anagnostou, Cory Merow, Efthymios Nikolopoulos, Rachael V. Gallagher, Feifei Yang “Predicting wildfire severity based on machine learning: application in Australian ecosystems” (in prep)
+
+
 
