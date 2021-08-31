@@ -79,9 +79,6 @@ Enquist, B.J., X. Feng, B.Boyle, B. Maitner, E. A. Newman, P. M. Jørgensen, P. 
 
 ## In review/revision
 
-Araujo, D. S. A., F. Marra, C. Merow, E. I. Nikolopoulos. A novel framework for assessing future changes in drought risk: results for Australia. In review.
-
-
 Araujo D., Marra F., Merow C., Nikolopoulos, E., 2021. Today’s 100-year drought in Australia may become the norm by the end of the century. Environmental Research Letters (under revision).
 
 
