@@ -146,6 +146,8 @@ _______________
 
 ### Kang He
 *University of Connecticut*
+
+Kang He is a Ph.D. student at UConn. He is working with a machine-learning based fire severity prediction model to link weather variables to burned severity. He is also working on a statistical-learning based recovery model to evaluate the post-fire flood impact on vegetation recovery. Simultaneously, he is simulating multi-decadal snowmelt in the western Colorado basin using a distributed hydrological model. 
 <br clear="left"/>
 
 _______________
