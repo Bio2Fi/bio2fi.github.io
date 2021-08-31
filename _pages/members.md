@@ -51,7 +51,7 @@ _______________
 
 # BioFI Team
 
-### Manos Anagnoustou
+### Manos Anagnostou
 *University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" align = left alt="Manos" width=200 img style="padding: 0px 10px 0px 0px;"/>
