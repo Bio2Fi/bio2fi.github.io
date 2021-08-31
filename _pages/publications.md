@@ -113,6 +113,12 @@ Feng, X., Enquist, B.J., Park, D.S., Boyle, B., Breshears, D.D., Gallagher, R., 
 He, K., X. Shen, E. N. Anagnostou, C. Merow, T. Nikolopoulos, R. Gallagher, F. Yang. Predicting wildfire severity based on machine learning: Application on the Australian ecosystem. In review.
 
 
+Cho-ying Huang, Sandra M. Durán, Kai-ting Hu, N.G. Swenson, B.J. Enquist. Remotely sensed assessment of increasing chronic and episodic drought effects on a Costa Rican tropical dry forest. Ecosphere (In Press)
+
+
+Danilo M. Neves, Andrew J. Kerkhoff, Susy Echeverría-Londoño, Cory Merow, Naia Morueta-Holme, Robert K. Peet, Brody Sandel, Jens-Christian Svenning, Susan K. Wiser, Brian J. Enquist, The adaptive challenge of extreme conditions shapes evolutionary diversity of plant assemblages at continental scales. Proceedings of the National Academy of Science (In Press).  
+
+
 Rasheed, Z., Aravamudan, A., Sefidmazgi, A.G., Anagnostopoulos, G.C. and Nikolopoulos, E., 2021. Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology. (under review). Preprint available at [https://doi.org/10.31223/X5X03X](https://doi.org/10.31223/X5X03X).
 
 
