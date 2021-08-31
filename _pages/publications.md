@@ -7,7 +7,7 @@ permalink: /publications/
 ## 2021
 
 
-Aguirre-Gutiérrez, Jesús, et al. "Pantropical modelling of canopy functional traits using Sentinel-2 remote sensing data." Remote Sensing of Environment 252 (2021): 112122.
+Aguirre-Gutiérrez, Jesús, et al. "Pantropical modelling of canopy functional traits using Sentinel-2 remote sensing data." Remote Sensing of Environment 252 (2021): 112122. [https://doi.org/10.1016/j.rse.2020.112122](https://doi.org/10.1016/j.rse.2020.112122)
 
 
 Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Adams, R. V. Gallagher. 2021. Functional diversity of the Australian flora: strong links to species richness and climate. Journal of Vegetation Science 32: e13018. [https://doi.org/10.1111/jvs.13018](https://doi.org/10.1111/jvs.13018)
@@ -23,7 +23,7 @@ Emmanouil, S., Langousis, A., Nikolopoulos, E.I. and Anagnostou, E.N., 2021. An 
 * The full CONUS-wide downscaled precipitation dataset is freely available at [https://doi.org/10.5061/dryad.8kprr4xnq](https://doi.org/10.5061/dryad.8kprr4xnq). 
 
 
-Falco N, Enquist BJ, Wainwright H, Wainwright H, Anagnostou E, Anagnostou E, Longo M, Longo M, Shen X, Shen X. Rapid assimilation and analysis of a suit of remote sensing data for predicting extreme events and their impact on ecological-human systems. AI4ESP; 2021 Apr 15.
+Falco N, Enquist BJ, Wainwright H, Wainwright H, Anagnostou E, Anagnostou E, Longo M, Longo M, Shen X, Shen X. Rapid assimilation and analysis of a suit of remote sensing data for predicting extreme events and their impact on ecological-human systems. AI4ESP; 2021 Apr 15. [https://www.ai4esp.org/files/AI4ESP1040_Falco_Nicola.pdf](https://www.ai4esp.org/files/AI4ESP1040_Falco_Nicola.pdf)
 
 
 Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
@@ -36,7 +36,7 @@ Frazier, A.E., Honzák, M., Hudson, C., Perlin, R., Tohtsonie, A., Gaddis, K.D.,
 Frye, H. A., M. E. Aiello-Lammens, D. Euston-Brown, C. S. Jones, H. K. Mollmann, C. Merow, J. A. Slingsby, H. van der Merwe, A. M. Wilson, J. A. Silander Jr. 2021. Plant spectral diversity as a surrogate for species, functional, and phylogenetic diversity across a hyper-diverse biogeographic region. Global Ecology and Biogeography. 30: 1404-1417. [https://doi.org/10.1111/geb.13306](https://doi.org/10.1111/geb.13306)
 
 
-Gallagher, Rachael V., et al. "Open Science principles for accelerating trait-based science across the Tree of Life." Nature ecology & evolution 4.3 (2020): 294-303.
+Gallagher, Rachael V., et al. "Open Science principles for accelerating trait-based science across the Tree of Life." Nature ecology & evolution 4.3 (2020): 294-303. [https://doi.org/10.1038/s41559-020-1109-6](https://doi.org/10.1038/s41559-020-1109-6)
 
 
 Jung, M., A. Arnell, X. de Lamo, S. García-Rangel, M. Lewis, J. Mark, C. Merow, L. Miles, I. Ondo, S. Pironon, C.Ravilious, M. Rivers, D. Schepashenko, O. Tallowin, A. van Soesbergen, R. Govaerts, et al., B. L. Boyle, B. J. Enquist, X. Feng, R.V. Gallagher, B. S. Maitner, S. Meiri, M. Mulligan, G.Ofer, J. O. Hanson, W. Jetz, M. Di Marco, J. McGowan, D. S. Rinnan, J. D. Sachs, M. Lesiv, V. Adams, S. C. Andrew, J. R. Burger, Lee Hannah, P. A. Marquet, J. K. McCarthy, N. Morueta-Holme, E. A. Newman, D. S. Park, P. R. Roehrdanz, J. C. Svenning, C. Violle,  J. J. Wieringa, G. Wynne, S. Fritz, B. B. N. Strassburg, M. Obersteiner, V. Kapos, N. Burgess, G. Schmidt-Traub, P. Visconti. Areas of global importance for terrestrial biodiversity, carbon, and water. 2021. Nature Ecology and Evolution. [https://doi.org/10.1038/s41559-021-01528](https://doi.org/10.1038/s41559-021-01528).
@@ -58,7 +58,7 @@ Urban, M. C., C. Merow, J. Wegrzyn, B. S. Maitner, D. Corcoran. 2021. How to pub
 Wessels, C., C. Merow, Trisos, C. 2021. Climate change risk to southern African native wild food plants. Regional Environmental Change. 21: 1-14. [http://dx.doi.org/10.1007/s10113-021-01755-5](http://dx.doi.org/10.1007/s10113-021-01755-5)
 
 
-Qing Yang, Xinyi Shen, Emmanouil Anagnostou, Jack Eggleston, and Albert Kettner “A High-Resolution Flood Inundation Archive (2016–the Present) from Sentinel-1 SAR Imagery over CONUS”, Bulletin of the American Meteorological Society, DOI:10.1175/BAMS-D-19-0319.1.
+Qing Yang, Xinyi Shen, Emmanouil Anagnostou, Jack Eggleston, and Albert Kettner “A High-Resolution Flood Inundation Archive (2016–the Present) from Sentinel-1 SAR Imagery over CONUS”, Bulletin of the American Meteorological Society, [DOI:10.1175/BAMS-D-19-0319.1](https://doi.org/10.1175/BAMS-D-19-0319.1).
 
 
 ## 2020
@@ -82,7 +82,7 @@ Trisos, C., C. Merow, A. Pigot. The projected timing of abrupt ecological disrup
 * Altmetric score: 2047; Top 5% of coverage in papers scored by Altmetrics
 
 
-Wainwright, Haruko M., et al. "Satellite-derived foresummer drought sensitivity of plant productivity in Rocky Mountain headwater catchments: spatial heterogeneity and geological-geomorphological control." Environmental Research Letters 15.8 (2020): 084018.
+Wainwright, Haruko M., et al. "Satellite-derived foresummer drought sensitivity of plant productivity in Rocky Mountain headwater catchments: spatial heterogeneity and geological-geomorphological control." Environmental Research Letters 15.8 (2020): 084018.[https://doi.org/10.1088/1748-9326/ab8fd0](https://doi.org/10.1088/1748-9326/ab8fd0)
 
 
 Zurell, D., J. Franklin, P.J. Bouchet, J.M. Serra-Diaz, C. F. Dormann, J. Elith, G. F. Guzman, X. Feng, G. Guillera-Arroita, A. Guisan, C. König, P. J. Leitão, J. J. Lahoz-Monfort, D. S. Park, A. T. Peterson, G. Rapacciuolo, D. Schmatz, B. Schröder, W. Thuiller, K. L. Yates, N. E. Zimmermann, C. Merow. A standard protocol for describing species distribution models. 2020. Ecography. 43: 1261-1277. [https://doi.org/10.1111/ecog.04960](https://doi.org/10.1111/ecog.04960)
