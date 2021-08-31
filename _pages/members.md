@@ -190,6 +190,11 @@ _______________
 
 ### Nirav Merchant
 *University of Arizona*
+
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merchant.png?raw=true" align = left alt="Nirav" width=200 />
+
+Nirav Merchant is the Co-PI for [NSF CyVerse](https://www.cyverse.org/) a national scale Cyberinfrastructure for life sciences and [NSF Jetstream](https://jetstream-cloud.org/) the first user-friendly, scalable cloud environment for NSF XSEDE. His research is directed towards developing scalable computational platforms for supporting open science and open innovation, with emphasis on improving research productivity for geographically distributed interdisciplinary teams. His interests include data science literacy, large-scale data management platforms, data delivery technologies, managed sensor and mobile platforms for health interventions, workforce development, and project based learning.
+
 <br clear="left"/>
 
 
