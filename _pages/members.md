@@ -8,7 +8,7 @@ permalink: /members/
 ### Laura Duncanson
 *Department of Geographical Science, University of Maryland*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" align = left alt="Laura" width=200 img style="padding: 10px 20px 10px 20px;"/> Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" align = left alt="Laura" width=200 img style="padding: 5px 5px 5px 5px;"/> Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
 <br clear="left"/>
 
 _______________
@@ -17,7 +17,7 @@ _______________
 ### Brian J. Enquist
 *Department of Ecology and Evolutionary Biology, The University of Arizona*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.png?raw=true" align = left alt="Enquist" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Enquist.png?raw=true" align = left alt="Enquist" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Brian is a Professor in the <a href = "https://eeb.arizona.edu/">Department of Ecology and Evolutionary Biology</a> at the University of Arizona. He is also an external Professor at the <a href = "https://www.santafe.edu/">Santa Fe Institute</a>, a theoretical research institute dedicated to the multidisciplinary study of the fundamental principles of complex adaptive systems, including physical, computational, biological, and social systems. He is the Co-director and founder of the <a href = "https://bbcs.arizona.edu/">Bridging Biodiversity and Conservation Science group</a> at the University of Arizona. Brian is a broadly trained plant biologist and ecologist. His collaborative lab group strives to develop a more integrative, quantitative, and predictive framework for biology, biodiversity Science and large-scale ecology. In particular, his lab aims to link biological measures across spatial and temporal scales in ecology and evolution. 
 <br clear="left"/>
@@ -28,7 +28,7 @@ _______________
 ### Amy E. Frazier
 *Arizona State University*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" align = left alt="Amy" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Frazier.png?raw=true" align = left alt="Amy" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Amy Frazier is an Associate Professor in the School of [Geographical Sciences and Urban Planning](https://sgsup.asu.edu/), a core faculty member in the [Spatial Analysis Research Center (SPARC)](https://sgsup.asu.edu/SPARC) and the [Center for Global Discovery and Conservation Science](https://gdcs.asu.edu/), an affiliate faculty in the [Center for Biodiversity Outcomes](https://sustainability-innovation.asu.edu/biodiversityoutcomes/), and a Senior Sustainability Scientist in the Julie Ann Wrigley Global Institute of Sustainability at Arizona State University. She also serves as the Associate Director for [Geospatial Research and Solutions](https://gis.asu.edu/). 
 
@@ -41,7 +41,7 @@ _______________
 ### Cory Merow
 *Eversource Energy Center and Department of Ecology and Evolutionary Biology, University of Connecticut*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" align = left alt="Cory" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merow.jpg?raw=true" align = left alt="Cory" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Cory is a quantitative ecologist interested in forecasting population, community, and ecosystem responses to environmental change. Even the best data sets are imperfect for predicting global change responses, so he develops tools to combine data sources to gain insights into how biological systems may change.
 <br clear="left"/>
@@ -54,7 +54,7 @@ _______________
 ### Manos Anagnoustou
 *University of Connecticut*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" align = left alt="Manos" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" align = left alt="Manos" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Manos is Board of Trustees Distinguished Professor of Civil and Environmental Engineering and Eversource Energy Endowed Chair of Environmental Engineering. My research interests lie at the intersection of remote sensing with hydrology and hydrometeorology, with particular focus on the nexus of climate and weather extremes and water-energy-food systems and associated impacts on human security.
 <br clear="left"/>
@@ -65,7 +65,7 @@ _______________
 ### Diogo Araujo
 *Department of Mechanical and Civil Engineering, Florida Institute of Technology*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Araujo.jpg?raw=true" align = left alt="Diogo" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Araujo.jpg?raw=true" align = left alt="Diogo" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Diogo is a PhD Student at the Department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the analysis of changes in hydraulic extremes characteristics, such as droughts, under future climate projections. Specifically, he applies a statistical framework to identify drought events and its main characteristics (severity, duration, frequency) on climate data from remote sensing and global climate models (GCM) datasets.
 <br clear="left"/>
@@ -85,7 +85,7 @@ _______________
 ### Adam Chmurzynski
 *PhD student, Department of Ecology and Evolutionary Biology, University of Arizona*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Adam.jpg?raw=true" align = left alt="Adam" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Adam.jpg?raw=true" align = left alt="Adam" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Adam brings a background in computer science to environmental science and education by creating new ways of visualizing and interacting with biodiversity data. He is creating an interactive web visualization depicting the present and future locations of hundreds of thousands of species on Earth, as well as other regional and global forecasting outputs of the Institute. A prototype of this tool [won a grand prize](https://www.youtube.com/watch?v=cVTtZN1E-8Y&list=PL55HrL0eJVEbD6zUfL-_Nj7tXA5hD7_7G&index=4) in the Michael H. Freilich Student Visualization Competition at AGU 2020.
 <br clear="left"/>
@@ -96,7 +96,7 @@ _______________
 ### Derek Corcoran
 *Aarhus University*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Corcoran.jpg?raw=true" align = left alt="Derek" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Corcoran.jpg?raw=true" align = left alt="Derek" width=200 img style="padding: 5px 5px 5px 5px;"/>
 <br clear="left"/>
 
 _______________
@@ -105,7 +105,7 @@ _______________
 ### Nicola Falco
 *Research scientist, Earth and Environmental Sciences Area, Lawrence Berkeley National Laboratory*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/falco.jpg?raw=true" align = left alt="Nicola" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/falco.jpg?raw=true" align = left alt="Nicola" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Nicola is an Earth research scientist at the Earth and Environmental Sciences Area at Lawrence Berkeley National Laboratory. Nicola’s research focuses on remote sensing data analysis and processing with applications in environmental monitoring, climate change, and precision agriculture. Its work concentrates on the development of methodologies for multi-source, multi-modal data analysis and integration of remote sensing (hyperspectral, LiDAR, high-resolution) with in-situ measurements, as well as geophysical data, to investigate key environmental drivers in both natural and managed ecosystems. 
 <br clear="left"/>
@@ -116,7 +116,7 @@ _______________
 ### Xiao Feng
 *Assistant Professor, Department of Geography, Florida State University*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/feng.png?raw=true" align = left alt="Xiao" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/feng.png?raw=true" align = left alt="Xiao" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Xiao Feng is a quantitative ecologist and biogeographer, interested in macroecological patterns (e.g. biogeography & biodiversity) and emerging environmental issues under global change. He mainly uses statistical models and computational informatics to answer ecological and biogeographic questions in a broad spatial context. 
 <br clear="left"/>
@@ -127,7 +127,7 @@ _______________
 ### Nico Franz
 *Arizona State University*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" align = left alt="Nico" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/nmfranz.png?raw=true" align = left alt="Nico" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Nico Franz is a Professor and Curator of Insects in the School of Life Sciences at Arizona State University. His research focuses on the systematics and evolutionary history of weevils (plant-feeding beetles). Nico is also an academic leader of the popular Symbiota software platform for publishing and networking biocollections data. He directs the ASU Biocollections and Biodiversity Knowledge Integration Center (BioKIC), and is the principal investigator of the National Ecological Observatory Network (NEON) Biorepository. 
 <br clear="left"/>
@@ -156,7 +156,7 @@ _______________
 ### Benjamin Hemingway
 *Postdoctoral Research Scholar, School of Geographical Sciences and Urban Planning, Arizona State University*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/hemingway.png?raw=true" align = left alt="Ben" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/hemingway.png?raw=true" align = left alt="Ben" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Benjamin has research interests in remote sensing and spatial statistics. He has experience utilizing unmanned aircraft systems and ground-based measurements to uncover the scales at which environmental processes are operating. 
 <br clear="left"/>
@@ -167,7 +167,7 @@ _______________
 ### Cesar Hinojo Hinojo
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, The University of Arizona*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/cesar.jpg?raw=true" align = left alt="Cesar" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/cesar.jpg?raw=true" align = left alt="Cesar" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 
 Cesar is a plant ecophysiologist focusing on integrating physiological processes, plant traits and remote sensing to improve our understanding and assessment of ecosystem function across space and time. He is currently developing new approaches to leverage the long record of multispectral satellite imagery to assess long-term shifts in leaf traits across the globe and integrating these new approaches to improve ecosystem process estimates.
@@ -180,7 +180,7 @@ _______________
 ### Brian S. Maitner
 *Postdoctoral Scholar, Department of Ecology and Evolutionary Biology, University of Connecticut, University of Connecticut*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" align = left alt="Brian" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" align = left alt="Brian" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Brian is a macroecologist and community ecologist who is interested in the origin, maintenance, and conservation of biodiversity.  He focuses on phylogenetic and trait-based approaches to quantifying diversity, and is interested in generalities across different systems.
 <br clear="left"/>
@@ -191,7 +191,7 @@ _______________
 ### Nirav Merchant
 *University of Arizona*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merchant.png?raw=true" align = left alt="Nirav" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Merchant.png?raw=true" align = left alt="Nirav" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Nirav Merchant is the Co-PI for [NSF CyVerse](https://www.cyverse.org/) a national scale Cyberinfrastructure for life sciences and [NSF Jetstream](https://jetstream-cloud.org/) the first user-friendly, scalable cloud environment for NSF XSEDE. His research is directed towards developing scalable computational platforms for supporting open science and open innovation, with emphasis on improving research productivity for geographically distributed interdisciplinary teams. His interests include data science literacy, large-scale data management platforms, data delivery technologies, managed sensor and mobile platforms for health interventions, workforce development, and project based learning.
 
@@ -203,7 +203,7 @@ _______________
 ### Thymios Nikolopoulos
 *Florida Institute of Technology*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Thymios.jpg?raw=true" align = left alt="Thymios" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Thymios.jpg?raw=true" align = left alt="Thymios" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Thymios is Assistant Professor in Hydrology and Water Resources at the department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the integration of climate data from remote sensing and global climate models with numerical and statistical modeling to advance understanding and predictability of the changes of water cycle components. Specifically, he develops global hazard layers and utilizes state-of-art statistical approaches to investigate the changes in severity, duration and frequency of climate extremes and associated hazards (droughts and floods) at global scale.
 <br clear="left"/>
@@ -214,7 +214,7 @@ _______________
 ### Patrick R. Roehrdanz
 *Moore Center for Science, Conservation International*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Roehrdanz.jpg?raw=true" align = left alt="Patrick" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Roehrdanz.jpg?raw=true" align = left alt="Patrick" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Patrick R. Roehrdanz is the manager of Spatial Planning for Area Conservation in Response to Climate Change (SPARC) at Conservation International, where he examines how to effectively conserve the world’s biodiversity as species and ecosystems respond to a changing climate.  
 
@@ -247,7 +247,7 @@ _______________
 ### Haruko Wainwright
 *Lawrence Berkeley National Laboratory*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Wainwright.png?raw=true" align = left alt="Haruko" width=200 />
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Wainwright.png?raw=true" align = left alt="Haruko" width=200 img style="padding: 5px 5px 5px 5px;"/>
 
 Haruko Wainwright’s research focuses on environmental informatics, aiming to improve understanding and predictions in Earth and environmental systems through mechanistic modeling and machine learning. In particular, she has been developing methodology to integrate multi-type and multiscale datasets (e.g., point samples, geophysical data, and drone/airborne/satellite remote sensing data) for estimating spatially heterogeneous subsurface and ecosystem properties. She works on broader topics, including watershed science, Arctic ecosystem science, agricultural ecosystem science, environmental contamination and remediation, and radiation monitoring.
 <br clear="left"/>
