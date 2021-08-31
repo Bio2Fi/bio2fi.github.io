@@ -49,12 +49,16 @@ Kedia, A.C., Kapos, B., Liao, S., Draper, J., Eddinger, J., Updike, C. and Frazi
 Owens, H., C. Merow, B. S. Maitner, J. M. Kass, V. Barve and R. P. Guralnick 2021. occCite: Tools for querying and managing large biodiversity occurrence datasets. Ecography. 44: 1–8, 2021. [https://doi.org/10.1111/ecog.05618](https://doi.org/10.1111/ecog.05618)
 
 
+Rehenuma Lazin, Xinyi Shen, Emmanouil Anagnostou, “Predicting flood damaged crop lands using Convolutional Neural Network (CNN)”, Environmental Research Letters, vol. 16 (5) pp. 054011 [doi: 10.1088/1748-9326/abeba0](https://doi.org/10.1088/1748-9326/abeba0).
+
+
 Urban, M. C., C. Merow, J. Wegrzyn, B. S. Maitner, D. Corcoran. 2021. How to publish at pandemic speed. Bioscience. XX: 1-3. [https://doi.org/10.1093/biosci/biab084](https://doi.org/10.1093/biosci/biab084)
 
 
 Wessels, C., C. Merow, Trisos, C. 2021. Climate change risk to southern African native wild food plants. Regional Environmental Change. 21: 1-14. [http://dx.doi.org/10.1007/s10113-021-01755-5](http://dx.doi.org/10.1007/s10113-021-01755-5)
 
 
+Qing Yang, Xinyi Shen, Emmanouil Anagnostou, Jack Eggleston, and Albert Kettner “A High-Resolution Flood Inundation Archive (2016–the Present) from Sentinel-1 SAR Imagery over CONUS”, Bulletin of the American Meteorological Society, DOI:10.1175/BAMS-D-19-0319.1.
 
 
 ## 2020
@@ -68,6 +72,9 @@ Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden,
 
 Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth rates. Proceedings of the National Academy of Sciences. 17: 27456-27464.[https://doi.org/10.1073/pnas.2008590117](https://doi.org/10.1073/pnas.2008590117)
 * Covered by the <a href = "https://nyti.ms/2yC42cW">New York Times</a>
+
+
+Rehenuma Lazin, Xinyi Shen, and Emmanouil N. Anagnostou “Evaluation of the Hyper-Resolution Model-Derived Water Cycle Components over the Upper Blue Nile Basin”, Journal of Hydrology, [DOI:10.1016/j.jhydrol.2020.125231](https://doi.org/10.1016/j.jhydrol.2020.125231)
 
 
 Trisos, C., C. Merow, A. Pigot. The projected timing of abrupt ecological disruption from climate change. 2020. Nature. 580: 496-501.[https://doi.org/10.1038/s41586-020-2189-9](https://doi.org/10.1038/s41586-020-2189-9)
