@@ -14,5 +14,18 @@ author_profile: true
 
 **BioFI focuses on science to assess the consequences of changing and losing biodiversity** across spatial and temporal scales and forecasting its effects on ecosystem function, and consequently human well-being.
 
+<br>
+<br>
+
+The Biodiversity and Biosphere Forecasting Institute (BioFI) provides the computational and data foundation as well as the collaboration mechanisms to facilitate the science needed to rapidly address grand environmental challenges.
+
+BioFI focuses on how to anticipate and predict transformative biosphere events, the fate of biodiversity, and the biosphere, under divergent scenarios/futures, and create actionable plans to prevent the loss of biodiversity and ecosystem services across the globe. BioFI’s scientific approach is guided by ecological theory and co-design principles of scientific inquiry. The outcomes will enhance the discovery, integration and utilization of Big Data from the biological, environmental, computer, and social sciences. BioFI will address three broad scientific issues:
+
+* Developing robust local to global predictions that can best forecast trajectories of biodiversity and the biosphere
+
+* Anticipating, predicting, and assessing how transformative local and biosphere events, such as fire, drought, heat waves, and other environmental calamities impact biodiversity, biosphere functioning, and human well being via ecosystem services
+
+* Developing the science needed to prevent loss of biodiversity and ecosystem services in the face of transformative and extreme biosphere events at regional and global scales
+
 
 
