@@ -165,7 +165,11 @@ _______________
 ### Cesar Hinojo Hinojo
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, The University of Arizona*
 
-Cesar is a plant ecophysiologist focusing on integrating physiological processes, plant traits and remote sensing to improve our understanding and assessment of ecosystem function across space and time. 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/cesar.jpg?raw=true" align = left alt="Cesar" width=200 />
+
+
+Cesar is a plant ecophysiologist focusing on integrating physiological processes, plant traits and remote sensing to improve our understanding and assessment of ecosystem function across space and time. He is currently developing new approaches to leverage the long record of multispectral satellite imagery to assess long-term shifts in leaf traits across the globe and integrating these new approaches to improve ecosystem process estimates.
+
 <br clear="left"/>
 
 _______________
