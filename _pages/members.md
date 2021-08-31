@@ -8,7 +8,7 @@ permalink: /members/
 ### Laura Duncanson
 *Department of Geographical Science, University of Maryland*
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" align = left alt="Laura" width=200 /> Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/duncanson.jpg?raw=true" align = left alt="Laura" width=200 img style="padding: 10px 20px 10px 20px;"/> Laura Duncanson is a remote sensing scientist with research interests in forest ecology, biomass mapping and monitoring. She primarily uses lidar remote sensing to study forest structure from local to global scales. As a member of NASA’s GEDI and ICESat-2 science teams she is heavily involved in the production of global-scale forest biomass products. She is interested in policy relevant applications of remote sensing data, particularly toward climate mitigation and forest conservation. 
 <br clear="left"/>
 
 _______________
