@@ -51,7 +51,7 @@ _______________
 
 # BioFI Team
 
-### Manos Anagnostou
+### Manos Anagnoustou
 *University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/manos.jpg?raw=true" align = left alt="Manos" width=200 img style="padding: 0px 10px 0px 0px;"/>
@@ -67,7 +67,7 @@ _______________
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Araujo.jpg?raw=true" align = left alt="Diogo" width=200 img style="padding: 0px 10px 0px 0px;"/>
 
-Diogo is a PhD Student at the Department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the analysis of changes in hydraulic extremes characteristics, such as droughts, under future climate projections. Specifically, he applies a statistical framework to identify drought events and its main characteristics (severity, duration, frequency) on climate data from remote sensing and global climate models (GCM) datasets.
+Diogo is a PhD Student at the Department of Mechanical and Civil Engineering at Florida Institute of Technology. His work focuses on the analysis of changes in hydrologic extremes characteristics, such as droughts, under future climate projections. Specifically, he applies a statistical framework to identify drought events and its main characteristics (severity, duration, frequency) on climate data from remote sensing and global climate models (GCM) datasets.
 <br clear="left"/>
 
 _______________
