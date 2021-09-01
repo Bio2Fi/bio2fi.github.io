@@ -9,6 +9,11 @@ permalink: /projects/
 ### Global Change Impacts on Amazonian Biodiversity
 As part of our objective to provide rapid assessments of ecological disasters and forecast their impacts, we have assessed the catastrophic and widespread fires in the Amazon in 2019. We assessed how fire losses and the species they impact have changed over the past two decades based on high resolution remote sensing data. 
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Feng_et_al_Fig2.pdf?raw=true" align = left alt="Fires" width=500 img style="padding: 0px 10px 0px 0px;"/> *Left: Fire impacts over time in the Amazon*
+
+<br clear="left"/>
+
+
 ____________________
 
 
