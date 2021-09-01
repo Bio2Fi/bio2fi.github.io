@@ -16,6 +16,9 @@ Andrew, S. C., K. Mokany, D. S. Falster, E. Wenk, I. J. Wright, C. Merow, V. Ada
 Charney, N. D., S. Record, B. Gerstner, C. Merow, P. Zarnetske, B. J. Enquist. 2021. A test of species distribution model transferability across environmental and geographic space for 108 western North American tree species. Frontiers in Ecology and Evolution. 9:689295. [https://doi.org/10.3389/fevo.2021.689295](https://doi.org/10.3389/fevo.2021.689295)
 
 
+Choe, H., Keeley, A.T.H., Cameron, D.R., Gogol-Prokurat, M., Hannah, L., Roehrdanz, P.R., Schloss, C.A., Thorne, J.H., 2021. The influence of model frameworks in spatial planning of regional climate-adaptive connectivity for conservation planning. Landscape and Urban Planning 214, 104169. [https://doi.org/10.1016/j.landurbplan.2021.104169](https://doi.org/10.1016/j.landurbplan.2021.104169)
+
+
 Davidow, M., C. Merow, J. Che-Castaldo, T. Schafer, M. Duker, D. Corcoran, D. Matteson. Clustering Future Scenarios Based on Predicted Range Maps. Bioarxiv. [https://arxiv.org/abs/2101.07408](https://arxiv.org/abs/2101.07408)
 
 
@@ -27,6 +30,7 @@ Falco N, Enquist BJ, Wainwright H, Wainwright H, Anagnostou E, Anagnostou E, Lon
 
 
 Feng, X ., C. Merow, Z. Liu, D. S. Park, P. Roehrdanz, B. Maitner, E. A. Newman, B. Boyle, A. Lien, J. R. Burger, M. M. Pires, P. M. Brando, M. B. Bush, C. N. H. McMichael, D. M. Neves, L. Hannah, D. D. Breshears, T. Evans, T. Nikolopoulous, J. R. Soto, K. Ernst, B. J. Enquist. 2021. How deregulation, drought and increasing fire impact Amazonian biodiversity. Nature. In Press.
+
 
 Frazier, A.E., Honzák, M., Hudson, C., Perlin, R., Tohtsonie, A., Gaddis, K.D., de Sousa, C., Larsen, T.H., Junker, J., Nyandwi, S. and Trgovac, A.B., Connectivity and conservation of Western Chimpanzee (Pan troglodytes verus) habitat in Liberia. 2021. Diversity and Distributions. (Open Access)
 * Journal [cover image](https://onlinelibrary.wiley.com/toc/14724642/2021/27/7)
@@ -46,6 +50,9 @@ Kedia, A.C., Kapos, B., Liao, S., Draper, J., Eddinger, J., Updike, C. and Frazi
 * News coverage by ABC15 Phoenix: [Drones and AI hunting down invasive plants at Salt River](https://www.abc15.com/news/state/drones-and-a-i-hunting-down-invasive-plants-at-salt-river)
 
 
+Noon, M., Goldstein, A., Ledzema, J.C., Roehrdanz, P.R., Cook-Patton, S., Spawn, S., Wright, T.W., Gonzales-Roglich, M., Hole, D.H., Rockstrom, J., Turner. W. 2021. Mapping the irrecoverable carbon in Earth’s ecosystems. Accepted, in press. Nature Sustainability. 
+
+
 Owens, H., C. Merow, B. S. Maitner, J. M. Kass, V. Barve and R. P. Guralnick 2021. occCite: Tools for querying and managing large biodiversity occurrence datasets. Ecography. 44: 1–8, 2021. [https://doi.org/10.1111/ecog.05618](https://doi.org/10.1111/ecog.05618)
 
 
@@ -63,11 +70,21 @@ Qing Yang, Xinyi Shen, Emmanouil Anagnostou, Jack Eggleston, and Albert Kettner 
 
 ## 2020
 
+
+Dobson, A.P., Pimm, S.L., Hannah, L., Kaufman, L., Ahumada, J.A., Ando, A.W., Bernstein, A., Busch, J., Daszak, P., Engelmann, J., Kinnaird, M.F., Li, B.V., Loch-Temzelides, T., Lovejoy, T., Nowak, K., Roehrdanz, P.R., Vale, M.M., 2020. Ecology and economics for pandemic prevention. Science. DOI: [10.1126/science.abc3189](https://doi.org/10.1126/science.abc3189)
+
+
+Fajardo, J., Corcoran, D., Roehrdanz, P.R., Hannah, L., Marquet, P.A., 2020. GCM compareR: A web application to assess differences and assist in the selection of general circulation models for climate change research. Methods in Ecology and Evolution 11, 656–663. [https://doi.org/10.1111/2041-210X.13360](https://doi.org/10.1111/2041-210X.13360)
+
+
 Hannah, L., P. R. Roehrdanz, P. A. Marquet, B. J. Enquist, G. Midgley, W. Foden, J. C. Lovett, R. Corlett, D. Corcoran, S. Butchart, B. Boyle, X. Feng, B. Maitner, J. Fajardo, B. J. McGill, C. Merow, N. Morueta-Holme, E. A. Newman, D. S. Park, J. Svenning. 30% land conservation and climate action reduces tropical extinction risk by more than 50%. 2020. Ecography. 43: 943-953. [https://doi.org/10.1111/ecog.05166](https://doi.org/10.1111/ecog.05166)
 * *Ecography Editor's Choice*
 * Subject of Ecography's first ever <a href = "https://soundcloud.com/george-chan-838071481/climate-change-how-much-land-do-we-need-to-protect-to-prevent-mass-extinctions">podcast</a>
 * <a href = "https://www.youtube.com/watch?v=LKHHYAWvNe4">Video Abstract</a>
 * Covered by <a href = "https://www.scientificamerican.com/article/how-to-dramatically-curb-extinction/">Scientific American</a>, <a href = "https://www.campaignfornature.org/science-page">Campaign for Nature</a>, and <a href = "https://forestsnews.cifor.org/64501/recipe-for-slowing-species-loss-and-cutting-extinction-risk-in-half?fnl=">Forests News</a>.
+
+
+Hannah, L., Roehrdanz, P.R., C, K.B.K., Fraser, E.D.G., Donatti, C.I., Saenz, L., Wright, T.M., Hijmans, R.J., Mulligan, M., Berg, A., Soesbergen, A. van, 2020. The environmental consequences of climate-driven agricultural frontiers. PLOS ONE 15, e0228305. https://doi.org/10.1371/journal.pone.0228305 
 
 
 Merow, C., M. Urban. 2020. Seasonality and uncertainty in global COVID-19 growth rates. Proceedings of the National Academy of Sciences. 17: 27456-27464.[https://doi.org/10.1073/pnas.2008590117](https://doi.org/10.1073/pnas.2008590117)
