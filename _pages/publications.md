@@ -120,11 +120,15 @@ Araujo D., Marra F., Merow C., Nikolopoulos, E., 2021. Today’s 100-year drough
 
 Carlson, C. J., G. F. Albery, C. Merow, C. H. Trisos, C. M. Zipfel, E. Eskew, K. J. Olival, N. Ross, S. Bansal. Global change will create new viral sharing opportunities in range-shifting mammals. 2020.  In review
 
+Chaplin-Kramer, R., Neugarten, R.A., Sharp, R.P., Collins, P.M., Polasky, S., Hole, D., Schuster, R., Strimas-Mackey, M., Mulligan, M., Brandon, C., Diaz, S., Fluet-Chouinard, E., Gorenflo, L., Johnson, J.A., Keys, P.W., Longley-Wood, K., McIntyre, P.B., Noon, M., Pascual, U., Liermann, C.R., Roehrdanz, P.R., Schmidt-Traub, G., Shaw, M.R., Spalding, M., Turner, W.R., Soesbergen, A. van, Watson, R.A., 2021. Global critical natural assets. Submitted to Science.  Preprint available at: [https://doi.org/10.1101/2020.11.08.361014](https://doi.org/10.1101/2020.11.08.361014)
+
+
+Coldrey, K.M, Turpie, J., Midgley, G.F., Scheiter, S., Hannah, L., Roehrdanz, P.R., Foden, W.B. 2021. A framework for assessing protected areas’ vulnerability to climate change: How vulnerable are South Africa’s national Parks? In review, Conservation Biology. 
+
 
 Corcoran, D., M. C. Urban, J. Wegrzyn, C. Merow. 2020. Virus evolution affected early COVID-19 spread. In review.
 
-
-Feng, X., Enquist, B.J., Park, D.S., Boyle, B., Breshears, D.D., Gallagher, R., Lien, A., Newman, E., Burger, J.R., Maitner, B.S. and Merow, C., 2021. A review of the heterogeneous landscape of biodiversity databases: opportunities and challenges for a synthesized biodiversity knowledge base.  In review Global Ecology and Biogeography
+Feng, X., Enquist, B.J., Park, D.S., Boyle, B., Breshears, D.D., Gallagher, R., Lien, A., Newman, E., Burger, J.R., Maitner, B.S., Merow, C., Li, Y., Huynh, K.M.-L., Ernst, K., Baldwin, E., Foden, W., Hannah, L., Jørgensen, P.M., Kraft, N., Lovett, J.C., Marquet, P.A., McGill, B.J., Morueta-Holme, N., Neves, D.M., Nunez-Regueiro, M., Oliveira-Filho, A.T., Peet, R.K., Pillet, M., Roehrdanz, P.R., Sandel, B., Serra-Diaz, J.M., Šímová, I., Svenning, J.-C., Violle, C., Weitemier, T.D., Wiser, S., López-Hoffman, L., 2021. A review of the heterogeneous landscape of biodiversity databases: opportunities and challenges for a synthesized biodiversity knowledge base. Submitted, Global Change Biology. Preprint available at: [https://doi.org/10.32942/osf.io/9zt4a](https://doi.org/10.32942/osf.io/9zt4a)
 
 
 He, K., X. Shen, E. N. Anagnostou, C. Merow, T. Nikolopoulos, R. Gallagher, F. Yang. Predicting wildfire severity based on machine learning: Application on the Australian ecosystem. In review.
@@ -139,19 +143,30 @@ Danilo M. Neves, Andrew J. Kerkhoff, Susy Echeverría-Londoño, Cory Merow, Naia
 Rasheed, Z., Aravamudan, A., Sefidmazgi, A.G., Anagnostopoulos, G.C. and Nikolopoulos, E., 2021. Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology. (under review). Preprint available at [https://doi.org/10.31223/X5X03X](https://doi.org/10.31223/X5X03X).
 
 
-Roehrdanz, P., L. Hannah, D. Corcoran, R. Corlett, B. J. Enquist, J. Fajardo, X. Feng, W. Foden, J. Lovett, B. Maitner, P. Marquet, C. Merow, G. Midgley. Strategic Conservation of Global Vertebrates in Response to Climate Change. In review
+Roehrdanz, P., Hannah, L., Corcoran, D., Corlett, R., Enquist, B., Fajardo, J., Feng, X., Foden, W., Lovett, J., Maitner, B., Marquet, P., Merow, C., Midgley, G., 2021. Strategic Conservation of Global Vertebrates in Response to Climate Change. In revision at One Earth. Preprint available at: [https://doi.org/10.2139/ssrn.3854499](https://doi.org/10.2139/ssrn.3854499)
+
+
+Schuster, R., Buxton, R., Hanson, J.O., Binley, A.D., Pittman, J., Tulloch,V., La Sorte, F., Roehrdanz, P.R., Verburg, P., Rodewald, A.D., Wilson, S., Possingham, H.P., Bennet, J.R. 2021. Protected areas for biodiversity conservation in an uncertain world. In Revision, Science. 
 
 
 Wieczynski, D., Diaz, S., Duran, S.M., Fyllas, N., Salinas, N., Martin, R., Shenkin, A., Silman, M., Asner, G., Bentley, L.P. and Malhi, Y., 2020. Quantifying productivity at landscape scale using remotely-sensed foliar traits and canopy structure.  In review Oikos
 
 
+Wilson, S., Hsien-Yung Lin, H., Schuster, R., Gómez, C., González, A.M., Botero-Delgadillo, E., Bayly, N.J., BennettJ.R., Rodewald A.D., Roehrdanz P.R., Gutierrez V.R., 2021. Opportunities for the conservation of migratory birds to benefit threatened resident vertebrates in the New World Tropics. In Revision, Journal of Applied Ecology.  
+
+
 ## In preparation
+
+
+Liang, M., Gonzalez-Roglich, M., Roehrdanz, P.R., Tabor, K., Silva, J., Fatoyinbo, T., Hansen,M., Duncanson, L. 2021. Quantifying and Assessing Protected Area’s Carbon Sequestration Potential and Ecological Values at Regional-scale Using GEDI. In Prep. Planned submission Sept 2021 to One Earth. 
+
+
+Trisurat, Y., Roehrdanz, P.R., Chitechote, A. 2021. Climate change impacts on ecosystems and composition of floristic regions in Thailand. In prep. Planned submission Sept 2021 
 
 
 Xinyi Shen, Guannan Liang, Amanda Allen and, Xiao Feng "An automated decadal survey of saguaro population using deep learning" AGU 2021 Fall Meeting, New Orleans. (in prep) 
 
 
 Xinyi Shen, Kang He, et al., “Future floods exacerbate fire recovery in New South Wales” (in prep)
-
 
 
