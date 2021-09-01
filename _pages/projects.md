@@ -9,7 +9,7 @@ permalink: /projects/
 ### Global Change Impacts on Amazonian Biodiversity
 As part of our objective to provide rapid assessments of ecological disasters and forecast their impacts, we have assessed the catastrophic and widespread fires in the Amazon in 2019. We assessed how fire losses and the species they impact have changed over the past two decades based on high resolution remote sensing data. 
 
-<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Feng_et_al_Fig2.pdf?raw=true" align = left alt="Fires" width=500 img style="padding: 0px 10px 0px 0px;"/> *Left: Fire impacts over time in the Amazon*
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Feng_et_al_Fig2.jpg?raw=true" align = left alt="Fires" width=500 img style="padding: 0px 10px 0px 0px;"/> *Left: Overview of species richness (a,b) and burned forest map (c) in the Amazon Basin. Panels (d-f) show examples of three species, Allantoma kuhlmannii (IUCN status:Critically Endangered), Opisthocomus hoazin (Hoatzin; IUCN status: vulnerable least concern), and Ateles marginatus (White-cheeked Spider Monkey; IUCN status: endangered) losing 47%, 3% and 6% of their Amazonian forest range, respectively. Photo credits: (d) adapted from The New York  325 Botanical Garden Herbarium (NY) under a [CC0 license](https://creativecommons.org/shareyour-work/public-domain/cc0/); (e) Mathias Mistretta Pires, Universidade Estadual de  327 Campinas; (f) Russell A. Mittermeier, Conservation International.*
 
 <br clear="left"/>
 
