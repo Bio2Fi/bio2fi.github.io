@@ -136,9 +136,15 @@ _______________
 
 
 ### Lee Hannah
-*Conservation International*
+*Senior Scientist, Climate Change Biology, Moore Center for Science, Conservation International*
 
-Lee Hannah is a conservation ecologist and a Senior Researcher in Climate Change Biology at Conservation International. 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Hannah.jpg?raw=true" align = left alt="Nico" width=200 img style="padding: 0px 10px 0px 0px;"/>
+
+Lee Hannah is the senior scientist in climate change biology at Conservation International’s Betty and Gordon Moore Center for Science, where he leads the organization’s efforts to develop conservation responses to climate change and pandemic prevention. 
+
+Lee has worked with leading health and disease experts to identify ways in which pandemics can be reduced by better caring for tropical forest communities and nature.  He is best known for his work on species on the move due to climate change, in both marine and terrestrial ecosystems – and is currently leading collaborative project that is investigating the role of ocean fronts in dynamic marine conservation and management.  He collaborates with scientists around the world working on species on the move, climate change biology, and pandemic prevention. Lee is based at the Bren School of Environmental Science and Management at the University of California, Santa Barbara, where he is also an adjunct professor.
+
+He is the editor of “Biodiversity and Climate Change,” with conservation biologist Thomas Lovejoy that captures the impacts of climate breakdown on the natural world, and “Climate Change Biology,” the first undergraduate text on the topic.  Lee is the author of nearly 100 peer-review research papers in a range of publications, from Nature to PNAS. 
 <br clear="left"/>
 
 _______________
@@ -178,7 +184,7 @@ _______________
 
 
 ### Brian S. Maitner
-*Postdoctoral Scholar, Department of Ecology and Evolutionary Biology, University of Connecticut, University of Connecticut*
+*Postdoctoral Scholar, Department of Ecology and Evolutionary Biology, University of Connecticut*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" align = left alt="Brian" width=200 img style="padding: 0px 10px 0px 0px;"/>
 
@@ -212,15 +218,11 @@ _______________
 
 
 ### Patrick R. Roehrdanz
-*Moore Center for Science, Conservation International*
+*Senior Manager – Climate Change and Biodiversity, Moore Center for Science, Conservation International*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Roehrdanz.jpg?raw=true" align = left alt="Patrick" width=200 img style="padding: 0px 10px 0px 0px;"/>
 
-Patrick R. Roehrdanz is the manager of Spatial Planning for Area Conservation in Response to Climate Change (SPARC) at Conservation International, where he examines how to effectively conserve the world’s biodiversity as species and ecosystems respond to a changing climate.  
-
-Patrick brings over a decade of experience in spatial analysis with a focus on climate change, including species distribution modeling, ecosystem services impact evaluation, climate change vulnerability assessment, agricultural suitability modeling and conservation planning.   
-
-Patrick grew up in Fargo, ND and holds degrees in environmental science and management from University of California, Santa Barbara and geology from Carleton College in Minnesota. 
+Patrick R. Roehrdanz is the Senior Manager -- Climate Change and Biodiversity at Conservation International, where he examines how and where to effectively conserve the world’s biodiversity as species and ecosystems respond to a changing climate. Patrick was the manager of the SPARC project which convened over 150 scientists and conservation practitioners from the mega-diverse tropics through a series of stakeholder engagement meetings to examine how the science of conservation in the face of climate change can be translated to policymaking, management, and implementation. Patrick has over a decade of experience with climate change analysis including species distribution modeling, ecosystem services impact evaluation, climate change vulnerability assessments, agricultural suitability modeling and conservation prioritization.  He is also involved in wide-ranging projects at Conservation International on topic including sustainable supply chain management, ecosystem accounting and valuation, planning for natural climate solutions, mapping the earth’s irrecoverable carbon stocks and prioritization of restoration projects.
 <br clear="left"/>
 
 _______________
