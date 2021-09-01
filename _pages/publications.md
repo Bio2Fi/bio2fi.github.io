@@ -137,7 +137,4 @@ Xinyi Shen, Guannan Liang, Amanda Allen and, Xiao Feng "An automated decadal sur
 Xinyi Shen, Kang He, et al., “Future floods exacerbate fire recovery in New South Wales” (in prep)
 
 
-Kang He, Xinyi Shen, Emmanouil N. Anagnostou, Cory Merow, Efthymios Nikolopoulos, Rachael V. Gallagher, Feifei Yang “Predicting wildfire severity based on machine learning: application in Australian ecosystems” (in prep)
-
-
 
