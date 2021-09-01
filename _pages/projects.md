@@ -59,18 +59,17 @@ ____________________
 ### Colorado Climate Change
 Mountainous watersheds provide 60-90% of water resources worldwide, and have accordingly been referred to as the ‘water towers’ of the world. However, uncertainty associated with predicting watershed hydrobiogeochemical behavior remains high as climate change, extreme weather, wildfire, land-use change, and other disturbances significantly reshape interactions within the world’s watersheds. Recent global-climate-model ensembles predict increased temperature and earlier snowmelt in western North America and reduced spring precipitation and increased late summer monsoon precipitation in the future.
 
-This subgroup  focuses on understanding variation in the flux of water in a headwater catchment of the Colorado River. Such catchments are are important for water resources, because they influence hydrology through evapotranspiration (ET) and nutrient cycling. Using data from satellites, airplanes and on-the ground long-term surveys we are harnessing remote sensing data to have a detailed picture of how shifts in biodiversity have impacted watershed function. We have focused on how changing patterns of temperature and drought are influencing vegetation ET, productivity and how these changes in turn are driven by shifts species functioning, diversity, and climate. 
+Recent works of this subgroup have focused on understanding and characterizing the heterogeneity (hydrology, geomorphology, and ecological properties) governing mountainous watersheds. We investigated bedrock-through-canopy properties by integrating different sensing technology and identifying environmental factors driving plant communities distributions and dynamics as well as biogeochemical processes. 
 
-____________________
-
-
-### Remote sensing of functional traits and ecosystem processes
-Functional traits are key drivers of ecosystem processes, like carbon sequestration and nutrient cycling in ecosystems. Biosphere is changing rapidly, but even when we have tons of trait observations across the globe stored in databases, it is still challenging to assess how functional traits (and their distributions) vary across the globe, and its particularly challenging to assess if the traits across the globe are changing in time (e.g. in response to climate change). What would the consequences of widespread shifts in traits for ecosystem processes?
-
-We are developing new remote sensing approaches that squeeze the information contained in the long record of global multispectral satellite imagery to be able to estimate how some key traits vary across space and time. These approaches work well regardless of the ecosystem type, latitude, or climate. We are also using these approaches to improve our regional-level estimates of ecosystem processes like primary production and evapotranspiration.
+This subgroup is currently focusing on understanding variation in the flux of water in a headwater catchment of the Colorado River. Such catchments are important for water resources, because they influence hydrology through evapotranspiration (ET) and nutrient cycling. Using data from satellites, airplanes and on-the ground long-term surveys we are harnessing remote sensing data to have a detailed picture of how shifts in biodiversity have impacted watershed function. We have focused on understanding how changing patterns of temperature and drought are driving shifts in composition, diversity and functional trait distributions of the vegetation, and how these climate and vegetation changes have in turn resulted in changes in ET and ecosystem productivity.
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/single_site_LMAtimeseries_SOAP.png?raw=true" align = left alt="LMA" width=500 img style="padding: 0px 10px 0px 0px;" /> *Left: Estimated leaf mass per area (LMA) over time.*
 
 <br clear="left"/>
+
+
+____________________
+
+
 
 
