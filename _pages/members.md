@@ -76,6 +76,8 @@ _______________
 ### Teresa Bohner
 *Postdoctoral researcher, Department of Ecology and Evolutionary Biology, University of Arizona*
 
+<img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Bohner.jpeg?raw=true" align = left alt="Teresa" width=200 img style="padding: 0px 10px 0px 0px;"/>
+
 Teresa is interested in how plant communities are responding to a changing climate with a focus on forest responses to drought.  She brings a background in population and community ecology as well as dendrochronology.
 <br clear="left"/>
 
