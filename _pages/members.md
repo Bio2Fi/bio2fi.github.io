@@ -186,7 +186,7 @@ _______________
 
 
 ### Brian S. Maitner
-*Postdoctoral Scholar, Department of Ecology and Evolutionary Biology, University of Connecticut*
+*Assistant Professor of Global Change, Department of Integrative Biology, University of South Florida - St. Petersburg*
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/brian-s-maitner.jpg?raw=true" align = left alt="Brian" width=200 img style="padding: 0px 10px 0px 0px;"/>
 
